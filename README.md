@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 
-I'm Sarvnaz, and this is my GitHub profile.
+I'm Sarvnaz, a passionate Frontend and App Developer based in Stockholm.
 
-- 🔭 I’m currently studying Frontend and App Development at Changemaker Educations.(graduating in 2024)
-- 🌱 I’m currently learning modern frontend frameworks like React to build dynamic and interactive web applications.
-- 📚 I'm actively seeking opportunities to apply my knowledge and collaborate on frontend projects.
-- 💬 Ask me about anything related to programming or technology.
-- ⚡ Fun fact: I'm a coffee aficionado and love trying different brews from around the world!
-
-Take a look at my repositories to explore my frontend projects and let's collaborate on creating amazing web experiences together!
+🔭 I specialize in frontend and app development, aiming to create seamless and dynamic user experiences.
+📚 Actively seeking opportunities to apply my knowledge and collaborate on innovative frontend projects.
+💬 Feel free to ask me anything related to programming or technology.
+⚡ Fun fact: I'm a coffee aficionado and love trying different brews from around the world!
+Explore my repositories to see my frontend projects and let's collaborate on creating amazing web experiences together!
 
 ## Languages and Tools 🔨:
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
