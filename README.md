@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-
 I'm Sarvnaz, a passionate Frontend and App Developer based in Stockholm.
 
-🔭 I specialize in frontend and app development, aiming to create seamless and dynamic user experiences.
-📚 Actively seeking opportunities to apply my knowledge and collaborate on innovative frontend projects.
-💬 Feel free to ask me anything related to programming or technology.
+🔭 I specialize in frontend and app development, aiming to create seamless and dynamic user experiences.  
+📚 Actively seeking opportunities to apply my knowledge and collaborate on innovative frontend projects.  
+💬 Feel free to ask me anything related to programming or technology.  
 ⚡ Fun fact: I'm a coffee aficionado and love trying different brews from around the world!
-Explore my repositories to see my frontend projects and let's collaborate on creating amazing web experiences together!
+
 
 ## Languages and Tools 🔨:
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
