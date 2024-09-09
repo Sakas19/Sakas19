@@ -4,7 +4,6 @@ I'm Sarvnaz, a passionate Frontend and App Developer based in Stockholm.
 
 🔭 I specialize in frontend and app development, aiming to create seamless and dynamic user experiences.  
 📚 Actively seeking opportunities to apply my knowledge and collaborate on innovative frontend projects.  
-💬 Feel free to ask me anything related to programming or technology.  
 ⚡ Fun fact: I'm a coffee aficionado and love trying different brews from around the world!
 
 
