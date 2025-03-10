@@ -3,7 +3,7 @@
 I'm Sarvnaz, a passionate Fullstack Developer based in Stockholm.
 
 🔭 I specialize in frontend and app development, aiming to create seamless and dynamic user experiences.  
-📚 currently woking at IKEA.  
+📚 currently woking @ IKEA.  
 ⚡ Fun fact: I'm a coffee aficionado and love trying different brews from around the world!
 
 
